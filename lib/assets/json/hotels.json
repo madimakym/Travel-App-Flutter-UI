@@ -1,0 +1,222 @@
+[
+    {
+        "location": {
+            "lat": -4.262161694506757,
+            "lng": 15.243056661430975
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Résidence Saint-Jacques",
+        "phone": "+242055537274",
+        "web": "www.hotels-saintjacques.com",
+        "address": "381 rue du Ruisseau Centreville",
+        "region": "Brazzaville",
+        "visual": "1ba1958e.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:40:53.018Z",
+        "updatedAt": "2021-05-18T07:41:57.802Z",
+        "description": null,
+        "mail": null,
+        "id": "60a36f850151f79d9d28414b"
+    },
+    {
+        "location": {
+            "lat": -4.270059618145872,
+            "lng": 15.28102619848841
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Mikhael's Hotel",
+        "phone": "+242053666600",
+        "web": "www.mikhaelshotel.com",
+        "region": "Brazzaville",
+        "visual": "85718586.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:37:59.640Z",
+        "updatedAt": "2021-05-18T07:38:49.753Z",
+        "address": null,
+        "description": null,
+        "mail": null,
+        "id": "60a36ed70151f79d9d28414a"
+    },
+    {
+        "location": {
+            "lat": -4.274467615940767,
+            "lng": 15.273558928545757
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Leon Hôtel",
+        "phone": "",
+        "web": "www.leon-hotel-brazzaville.com",
+        "address": "Ave Du Mont Des Arts",
+        "region": "Brazzaville",
+        "visual": "91662257.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:36:16.994Z",
+        "updatedAt": "2021-05-18T07:36:59.534Z",
+        "description": null,
+        "mail": null,
+        "id": "60a36e700151f79d9d284149"
+    },
+    {
+        "location": {
+            "lat": -4.272456202613857,
+            "lng": 15.279567076775479
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Brazza Hotel",
+        "phone": "",
+        "address": "136 Rue Charles Faucault",
+        "region": "Brazzaville",
+        "visual": "205710764.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:34:41.675Z",
+        "updatedAt": "2021-05-18T07:35:11.041Z",
+        "description": null,
+        "mail": null,
+        "web": null,
+        "id": "60a36e110151f79d9d284148"
+    },
+    {
+        "location": {
+            "lat": -4.254845574117511,
+            "lng": 15.280110907986
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Résidence Hôtelière de Moungali",
+        "phone": "+242066685429",
+        "address": "66 BIS 83 Rue Impfondo",
+        "region": "Brazzaville",
+        "visual": "56507a07_z.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:32:41.732Z",
+        "updatedAt": "2021-06-20T10:15:04.799Z",
+        "description": null,
+        "mail": null,
+        "web": null,
+        "id": "60a36d990151f79d9d284147"
+    },
+    {
+        "location": {
+            "lat": -4.258755066723753,
+            "lng": 15.239140646086478
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Hotel Scaimba",
+        "address": "21 Avenue de la Base, Moungali",
+        "region": "Brazzaville",
+        "visual": "147836435.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:28:13.164Z",
+        "updatedAt": "2021-05-18T07:30:26.932Z",
+        "description": null,
+        "mail": null,
+        "phone": null,
+        "web": null,
+        "id": "60a36c8d0151f79d9d284146"
+    },
+    {
+        "location": {
+            "lat": -4.261205049597527,
+            "lng": 15.254272038153465
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Pefaco Hotel Maya-Maya",
+        "phone": "+242056048030",
+        "web": "www.pefacohotelmayamaya.com",
+        "address": "Boulevard Denis Sassou Nguesso",
+        "region": "Brazzaville",
+        "visual": "bien-etre-et-de-detente.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:25:19.448Z",
+        "updatedAt": "2021-05-18T07:26:49.930Z",
+        "description": null,
+        "mail": null,
+        "id": "60a36bdf0151f79d9d284145"
+    },
+    {
+        "location": {
+            "lat": -4.27608882683187,
+            "lng": 15.283798542357493
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Radisson Blu M'Bamou Palace",
+        "phone": "+242050506060",
+        "web": "www.radissonhotels.com",
+        "region": "Brazzaville",
+        "visual": "hotel-exterior-entrance.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:22:57.682Z",
+        "updatedAt": "2021-05-26T23:00:41.352Z",
+        "address": null,
+        "description": null,
+        "mail": null,
+        "id": "60a36b510151f79d9d284144"
+    },
+    {
+        "location": {
+            "lat": -4.2642697872265565,
+            "lng": 15.29665307677548
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Hotel Riviera",
+        "phone": "+242068852424",
+        "address": "105 Ave du Maréchal Galliéni",
+        "region": "Brazzaville",
+        "visual": "153849667.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:20:21.771Z",
+        "updatedAt": "2021-05-18T07:21:36.920Z",
+        "description": null,
+        "mail": null,
+        "web": null,
+        "id": "60a36ab50151f79d9d284143"
+    },
+    {
+        "location": {
+            "lat": -4.279674727360793,
+            "lng": 15.26441246612417
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Capital Hotel",
+        "phone": "+242068888882",
+        "address": "PLATEAU",
+        "region": "Brazzaville",
+        "visual": "223597465.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:18:26.922Z",
+        "updatedAt": "2021-05-18T07:19:09.388Z",
+        "description": null,
+        "mail": null,
+        "web": null,
+        "id": "60a36a420151f79d9d284142"
+    },
+    {
+        "location": {
+            "lat": -4.272827387763338,
+            "lng": 15.282479826157832
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "GHS Hotel",
+        "phone": "+242065121212",
+        "web": "www.ghscongo.com",
+        "address": "Avenue P. E. Lumumba",
+        "region": "Brazzaville",
+        "visual": "68937108.jpg",
+        "category": "Hôtels",
+        "createdAt": "2021-05-18T07:16:29.775Z",
+        "updatedAt": "2021-05-18T07:17:27.482Z",
+        "description": null,
+        "mail": null,
+        "id": "60a369cd0151f79d9d284141"
+    }
+]

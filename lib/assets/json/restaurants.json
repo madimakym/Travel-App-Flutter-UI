@@ -1,0 +1,279 @@
+[
+    {
+        "location": {
+            "lat": -4.27273440077177,
+            "lng": 15.243073727098636
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "KUDIA",
+        "phone": "+242 06 979 7501",
+        "mail": "contact.kudia@gmail.com",
+        "region": "Brazzaville",
+        "visual": "187288038_4620133344668757_2741017808868523757_n.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-06-19T02:58:20.822Z",
+        "updatedAt": "2021-06-19T02:58:20.822Z",
+        "id": "60cd5d4c69cbda862cf414f0"
+    },
+    {
+        "location": {
+            "lat": -4.276910673367199,
+            "lng": 15.283152433712209
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Le Feu des Saveurs",
+        "phone": "+242050506060",
+        "web": "https://www.radissonblu.com",
+        "address": "Avenue Amilcar Cabral",
+        "region": "Brazzaville",
+        "visual": "fds-by-night.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-06-19T02:30:20.180Z",
+        "updatedAt": "2021-06-19T02:30:20.180Z",
+        "id": "60cd56bc69cbda862cf414ea"
+    },
+    {
+        "location": {
+            "lat": -4.256761881945505,
+            "lng": 15.264438124450026
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Restaurant Ilys",
+        "phone": "+242044116863",
+        "mail": "",
+        "region": "Brazzaville",
+        "visual": "40943262_2409496655742146_6407257311961677824_n.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-06-19T02:25:15.280Z",
+        "updatedAt": "2021-06-19T02:25:15.280Z",
+        "id": "60cd558b69cbda862cf414e9"
+    },
+    {
+        "location": {
+            "lat": -4.269513031059895,
+            "lng": 15.281615068475947
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Restaurant Royal",
+        "phone": "+242069428888",
+        "region": "Brazzaville",
+        "visual": "the-restaurant-interiors.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-06-19T02:20:27.732Z",
+        "updatedAt": "2021-06-19T02:20:27.732Z",
+        "id": "60cd546b69cbda862cf414e8"
+    },
+    {
+        "location": {
+            "lat": -4.2692855198262425,
+            "lng": 15.269442721563328
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Restaurant L'oriental",
+        "phone": "+242222811249",
+        "web": "www.olympic-palace-hotel.net",
+        "region": "Brazzaville",
+        "visual": "oph_oriental1.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-06-19T02:18:03.362Z",
+        "updatedAt": "2021-06-19T02:18:03.362Z",
+        "id": "60cd53db69cbda862cf414e7"
+    },
+    {
+        "location": {
+            "lat": -4.309754424043223,
+            "lng": 15.231554900275043
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Les Rapides",
+        "region": "Brazzaville",
+        "visual": "Screen Shot 2021-06-19 at 02.13.23.png",
+        "category": "Restaurants",
+        "createdAt": "2021-06-19T02:13:47.245Z",
+        "updatedAt": "2021-06-19T02:13:47.245Z",
+        "id": "60cd52db69cbda862cf414e6"
+    },
+    {
+        "location": {
+            "lat": -4.290080399365253,
+            "lng": 15.266990648128111
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "CHEZ DOM",
+        "phone": "+242066784884",
+        "address": "Rond point Case De Gaulle sur la corniche",
+        "region": "Brazzaville",
+        "visual": "un-coin-magique-avec.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-06-19T02:10:04.502Z",
+        "updatedAt": "2021-06-19T02:10:04.502Z",
+        "id": "60cd51fc69cbda862cf414e5"
+    },
+    {
+        "location": {
+            "lat": -4.277224287533903,
+            "lng": 15.283655390604089
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Mami Wata",
+        "phone": "+242055342879",
+        "web": "www.restaurantmamiwata.com",
+        "region": "Brazzaville",
+        "visual": "17620172_1302359839817136_4423533994170104967_o.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-06-12T19:33:28.706Z",
+        "updatedAt": "2021-06-19T02:07:54.240Z",
+        "address": null,
+        "description": null,
+        "mail": null,
+        "id": "60c50c083ce7ea3fc74ee090"
+    },
+    {
+        "location": {
+            "lat": -4.27267233377356,
+            "lng": 15.27847534381355
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Jaipur Restaurant",
+        "phone": "+242044821111",
+        "region": "Brazzaville",
+        "visual": "2nd-floor.jpeg",
+        "category": "Restaurants",
+        "createdAt": "2021-06-12T19:18:35.935Z",
+        "updatedAt": "2021-06-12T19:30:52.458Z",
+        "address": null,
+        "description": null,
+        "mail": null,
+        "web": null,
+        "id": "60c5088b3ce7ea3fc74ee08f"
+    },
+    {
+        "location": {
+            "lat": -4.269036675277553,
+            "lng": 15.268780986688192
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Jardin des Saveurs",
+        "phone": "+242056172085",
+        "web": "www.jardindessaveursbrazza.com",
+        "region": "Brazzaville",
+        "visual": "Screen Shot 2021-06-12 at 18.42.50.png",
+        "category": "Restaurants",
+        "createdAt": "2021-06-12T19:15:36.634Z",
+        "updatedAt": "2021-06-17T07:29:27.318Z",
+        "address": null,
+        "description": null,
+        "mail": null,
+        "id": "60c507d83ce7ea3fc74ee08e"
+    },
+    {
+        "location": {
+            "lat": -4.269581855886882,
+            "lng": 15.269712144246567
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Royal Spice",
+        "phone": "+242053765555",
+        "address": "175 Ave de l'Amitié",
+        "region": "Brazzaville",
+        "visual": "20181021_182452.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-05-19T17:22:49.468Z",
+        "updatedAt": "2021-05-19T17:24:01.201Z",
+        "description": null,
+        "mail": null,
+        "web": null,
+        "id": "60a5496949b121b5c624dc03"
+    },
+    {
+        "location": {
+            "lat": -4.276728795454896,
+            "lng": 15.278123551768179
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "La Mandarine",
+        "phone": "+242066666600",
+        "web": "",
+        "address": "03 avenue foch centre ville, Ave du Maréchal Foch",
+        "region": "Brazzaville",
+        "visual": "La-Mandarine-Brazzaville.png.webp",
+        "category": "Restaurants",
+        "createdAt": "2021-05-19T07:42:40.884Z",
+        "updatedAt": "2021-05-19T07:54:34.925Z",
+        "description": null,
+        "mail": null,
+        "id": "60a4c17049b121b5c624dc02"
+    },
+    {
+        "location": {
+            "lat": -4.266158148676327,
+            "lng": 15.263146096538373
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Restaurant La Pirogue",
+        "phone": "+242066136060",
+        "address": "Avenue des Anciens Enfants de Troupe",
+        "region": "Brazzaville",
+        "visual": "photo1jpg.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-05-19T07:40:01.894Z",
+        "updatedAt": "2021-05-19T07:40:54.004Z",
+        "description": null,
+        "mail": null,
+        "web": null,
+        "id": "60a4c0d149b121b5c624dc01"
+    },
+    {
+        "location": {
+            "lat": -4.27244919892403,
+            "lng": 15.285075837576859
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Restaurant O Sympathic",
+        "phone": "+242066778143",
+        "web": "www.osympathic.com",
+        "region": "Brazzaville",
+        "visual": "delicious-food-steak.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-05-19T07:36:58.620Z",
+        "updatedAt": "2021-05-19T07:39:07.662Z",
+        "address": null,
+        "description": null,
+        "mail": null,
+        "id": "60a4c01a49b121b5c624dc00"
+    },
+    {
+        "location": {
+            "lat": -4.274760184018185,
+            "lng": 15.283745461897418
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Le First Restaurant",
+        "phone": "+242055370401",
+        "address": "Tours Jumelles, Avenue Amilcar Cabral",
+        "region": "Brazzaville",
+        "visual": "gambas-riz-blanc.jpg",
+        "category": "Restaurants",
+        "createdAt": "2021-05-19T07:28:20.708Z",
+        "updatedAt": "2021-06-12T19:09:38.127Z",
+        "description": null,
+        "mail": null,
+        "web": null,
+        "id": "60a4be1449b121b5c624dbff"
+    }
+]

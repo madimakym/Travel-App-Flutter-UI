@@ -1,0 +1,102 @@
+[
+    {
+        "location": {
+            "lat": -4.8195499114348666,
+            "lng": 11.854303200638924
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Côte sauvage",
+        "description": "Les plages les plus belles et les plus populaires de Pointe-Noire sont situées au sud de la ville et sont connues localement sous le nom de «côte sauvage». Il y a beaucoup de stands servant du poisson frais et des bières froides, ainsi que beaucoup d'espace pour échapper à la foule.",
+        "region": "Pointe-Noire",
+        "visual": "1619564630935-cote-sauvage.jpg",
+        "createdAt": "2021-04-27T23:15:45.461Z",
+        "updatedAt": "2021-05-26T23:54:47.073Z",
+        "address": null,
+        "category": null,
+        "mail": null,
+        "phone": null,
+        "web": null,
+        "id": "60889b219d9164f6e802211c"
+    },
+    {
+        "location": {
+            "lat": -3.2746617160532194,
+            "lng": 15.472009510093885
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Réserve de Lesio Louna",
+        "description": "La réserve de Lesio Louna est située au nord de Brazzaville créé le 28 décembre 1993, et est dédiée à la protection des gorilles.",
+        "region": "Pool",
+        "visual": "1619564374241-37618hr_-e1567374530943.jpg",
+        "createdAt": "2021-04-27T22:56:48.603Z",
+        "updatedAt": "2021-05-26T23:56:46.163Z",
+        "address": null,
+        "category": null,
+        "mail": null,
+        "phone": null,
+        "web": null,
+        "id": "608896b09d9164f6e802211b"
+    },
+    {
+        "location": {
+            "lat": -4.787266383953506,
+            "lng": 11.864101372032009
+        },
+        "hours": [],
+        "images": [],
+        "libelle": " Musée Cercle Africain",
+        "description": "Le musée du Cercle Africain de Pointe-Noire est le premier musée de la capitale économique de la république du Congo. Il est consacré à son histoire et à la promotion de la culture et de l’art",
+        "region": "Pointe-Noire",
+        "visual": "1619563755175-il-cortile-interno.jpg",
+        "createdAt": "2021-04-27T22:51:46.362Z",
+        "updatedAt": "2021-05-26T23:58:21.274Z",
+        "address": null,
+        "category": null,
+        "mail": null,
+        "phone": null,
+        "web": null,
+        "id": "608895829d9164f6e802211a"
+    },
+    {
+        "location": {
+            "lat": -4.268401508900583,
+            "lng": 15.284156455732013
+        },
+        "hours": [],
+        "images": [],
+        "libelle": "Basilique Sainte Anne",
+        "description": "La basilique Sainte-Anne-du-Congo est une basilique mineure située à Brazzaville, capitale du Congo. Il s'agit de l'un des monuments emblématiques de la ville. \nC'est dès 1936 que Mgr Biéchy, vicaire apostolique de Brazzaville, décide, pour faire face à l'afflux de convertis à Poto-Poto, de l'érection d'un sanctuaire important dans ce quartier de Brazzaville. C'est le révérend père Nicolas Moyssan CSsp, supérieur religieux du district, qui est désigné pour la fondation de cette mission qu’il dédie à Sainte-Anne.\n\nEn 1940, Félix Éboué, gouverneur général de l’Afrique Équatoriale Française décide de l’implantation du complexe église – presbytère – stade omnisport, à la jonction des quartiers de la plaine et de Poto-Poto.\n\nLe 13 mars 1943 a lieu le premier coup de pioche, la préparation du terrain, l'Installation du chantier et l'exécution des fouilles des fondations.\n\nIl sort de terre un édifice extrêmement novateur dû au talent de l’architecte protestant Roger Lelièvre, dit Erell (1907-1986).",
+        "region": "Brazzaville",
+        "visual": "1619572012150-Basilique_-_façade_principale.jpg",
+        "createdAt": "2021-04-27T00:46:14.457Z",
+        "updatedAt": "2021-05-26T23:55:49.247Z",
+        "mail": "",
+        "address": null,
+        "category": null,
+        "phone": null,
+        "web": null,
+        "id": "60875ed69d9164f6e8022119"
+    },
+    {
+        "location": {
+            "lat": 2.5796772137717467,
+            "lng": 16.613869858053004
+        },
+        "hours": null,
+        "images": [],
+        "libelle": "Le parc national de Nouabalé-Ndoki",
+        "description": "Le parc national de Nouabalé-Ndoki est situé dans le nord du Congo, à cheval sur les départements de la Sangha et de la Likouala. Créé en 1993 et érigé en parc national en 2012, le parc tire son nom des rivières Nouabalé et Ndoki. Il couvre environ 423 870 hectares. Les scientifiques y ont recensé 1 000 espèces de plantes et une exceptionnelle diversité de forêts, dont celles d’acajous. Le parc national de Nouabalé-Ndoki est inscrit au titre du patrimoine mondial, il a pour particularité de ne jamais avoir fait l’objet d’une exploitation forestière.\nLe parc est axé tourisme éco-responsable, ainsi, à l’intérieur du parc,  les visites se font principalement en pirogue et à pied avec des guides et pisteurs. Le parc est équipé de campements.",
+        "phone": "+221055226542",
+        "web": "wcscongobrazza@wcs.org",
+        "address": "",
+        "region": "Likouala",
+        "visual": "20181009-parrot-release-Bomassa-rehab-centre-9.jpg",
+        "createdAt": "2021-04-26T17:43:08.432Z",
+        "updatedAt": "2021-05-26T23:56:06.124Z",
+        "mail": "",
+        "category": null,
+        "id": "6086fbac739e2a806b62de1e"
+    }
+]
