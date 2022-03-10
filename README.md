@@ -15,4 +15,4 @@ flutter run
 
 <img src="screenshot/1.png" height="500em" />&nbsp;&nbsp;&nbsp;<img src="screenshot/3.png" height="500em" />&nbsp;&nbsp;&nbsp;<img src="screenshot/2.png" height="500em" />
 
-<img src="screenshot/4.png" height="500em" />&nbsp;&nbsp;&nbsp;<img src="screenshot/5.png" height="500em" />
+<img src="screenshot/4.png" height="500em" />
