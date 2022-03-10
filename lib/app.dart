@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:travel_ui_app/pages/product/product_page.dart';
-
-import 'pages/TabsPage.dart';
+import 'pages/tabs_page.dart';
 import 'pages/home/home_page.dart';
 import 'widgets/custom_arguments.dart';
 import 'widgets/custom_transition.dart';
